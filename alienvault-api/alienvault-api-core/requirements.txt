@@ -40,7 +40,7 @@ ordereddict==1.1
 paramiko==1.10.1
 passlib==1.7.1
 psutil==2.1.0
-pyOpenSSL==0.15.1
+pyOpenSSL==17.5.0
 pyasn1==0.1.8
 pycparser==2.14
 pycrypto==2.6
