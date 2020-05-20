@@ -26,7 +26,7 @@ decorator==3.4.0
 docutils==0.10
 enum34==1.0.4
 hiredis==0.2.0
-httplib2==0.8
+httplib2==0.18.0
 idna==2.0
 ipaddress==1.0.6
 impacket==0.9.15
