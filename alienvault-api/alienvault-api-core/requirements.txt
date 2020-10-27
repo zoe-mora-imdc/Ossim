@@ -21,7 +21,7 @@ billiard==2.7.3.31
 blinker==1.4
 celery==3.0.1
 cffi==1.1.2
-cryptography==1.0
+cryptography==3.2
 decorator==3.4.0
 docutils==0.10
 enum34==1.0.4
