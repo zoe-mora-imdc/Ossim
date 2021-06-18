@@ -29,7 +29,7 @@ hiredis==0.2.0
 httplib2==0.8
 idna==2.0
 ipaddress==1.0.6
-impacket==0.9.15
+impacket==0.9.23
 itsdangerous==0.22
 kombu==2.4.7
 lockfile==0.9.1
