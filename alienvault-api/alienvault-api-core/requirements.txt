@@ -19,7 +19,7 @@ anyjson==0.3.3
 argparse==1.2.1
 billiard==2.7.3.31
 blinker==1.4
-celery==3.0.1
+celery==5.2.2
 cffi==1.1.2
 cryptography==1.0
 decorator==3.4.0
