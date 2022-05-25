@@ -57,7 +57,7 @@ six==1.9.0
 validate-email==1.1
 wsgiref==0.1.2
 yolk==0.4.3
-PyJWT==1.5.2
+PyJWT==2.4.0
 git+git://github.com/alien-dev/python-augeas.git#egg=python_augeas
 git+git://github.com/alien-dev/celery-once.git#egg=celery_once
 git+git://github.com/alien-dev/celerybeatredis.git#egg=celerybeat_redis
